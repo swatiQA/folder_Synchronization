@@ -1,0 +1,57 @@
+root - DEBUG - None
+root - DEBUG - Total files copied 0
+root - DEBUG - Total folders copied 0
+root - DEBUG - None
+root - DEBUG - Total files copied 1
+root - DEBUG - Total folders copied 1
+root - DEBUG - Copied directory "test1" from "C:\Users\naren\TestDirectory1" to "C:\Users\naren\TestDirectory2"
+root - INFO - Total files copied 1
+root - INFO - Total folders copied 1
+root - ERROR - Message
+NoneType: None
+root - INFO - Total files copied 0
+root - INFO - Total folders copied 0
+root - DEBUG - Copied "node1.txt" from "C:\Users\naren\TestDirectory1" to "C:\Users\naren\TestDirectory2"
+root - DEBUG - Copied directory "test1" from "C:\Users\naren\TestDirectory1" to "C:\Users\naren\TestDirectory2"
+root - ERROR - Message
+NoneType: None
+root - INFO - Total files copied 1
+root - INFO - Total folders copied 1
+root - INFO - Total files copied 0
+root - INFO - Total folders copied 0
+root - DEBUG - Copied directory "test2" from "C:\Users\naren\TestDirectory2" to "C:\Users\naren\TestDirectory1"
+root - INFO - Total files copied 0
+root - INFO - Total folders copied 0
+root - DEBUG - Copied directory "test2" from "C:\Users\naren\TestDirectory2" to "C:\Users\naren\TestDirectory1"
+root - INFO - Total files copied 0
+root - INFO - Total folders copied 0
+ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+Comm - WARNING - No such comm: 792b95e4-c289-4410-9f90-8880fa5b18e2
+Comm - DEBUG - Current comms: []
+root - INFO - Total files copied: 0 
+ Total folders copied: 0
+root - INFO - Total files copied: 0 
+ Total folders copied: 0
+root - INFO - Copied File: TestDirectory1\node1.txt -> TestDirectory2\node1.txt
+root - INFO - Copied folders:TestDirectory1\test1 -> TestDirectory2\test1
+root - INFO - Total files copied: 2 
+ Total folders copied: 1
+root - INFO - Copied File: TestDirectory1\node1.txt -> TestDirectory2\node1.txt
+root - INFO - Copied File: TestDirectory1\node2.txt -> TestDirectory2\node2.txt
+root - INFO - Copied folders:TestDirectory1\test1 -> TestDirectory2\test1
+root - INFO - Total files copied: 3 
+ Total folders copied: 1
+ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+Comm - WARNING - No such comm: 8e285575-3a13-4761-9a78-fcbcdabc2010
+Comm - DEBUG - Current comms: []
+2023-10-09 23:33:05,030 Copied File: TestDirectory1\node1.txt -> TestDirectory2\node1.txt
+2023-10-09 23:33:05,030 Copied File: TestDirectory1\node2.txt -> TestDirectory2\node2.txt
+2023-10-09 23:33:05,030 Copied folders:TestDirectory1\test1 -> TestDirectory2\test1
+2023-10-09 23:33:51,578 Total files copied: 0 
+ Total folders copied: 0
+2023-10-09 23:34:34,843 Copied File: TestDirectory1\node1.txt -> TestDirectory2\node1.txt
+2023-10-09 23:34:34,844 Copied File: TestDirectory1\node2.txt -> TestDirectory2\node2.txt
+2023-10-09 23:34:34,845 Copied folders:TestDirectory1\test1 -> TestDirectory2\test1
+2023-10-09 23:34:34,846 Copied File: TestDirectory1\test1\test2.txt -> TestDirectory2\test1\test2.txt
+2023-10-09 23:34:34,846 Total files copied: 3 
+ Total folders copied: 1
